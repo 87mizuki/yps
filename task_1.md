@@ -52,4 +52,4 @@ sshd_configを複製
 ### ⑩インバウンドルールからSSHを削除、ルールの保存
 ### ⑪`sudo yum update -y`　アップデート　※少し時間がかかります
 ### ⑫`exit` でターミナル終了
-※無料枠の間はEC2インスタンス起動しっぱなしでも課金されない
+【AWS無料枠について】https://d1.awsstatic.com/webinars/jp/pdf/services/20190413_CS_OndemandSeminor_freetier.pdf
